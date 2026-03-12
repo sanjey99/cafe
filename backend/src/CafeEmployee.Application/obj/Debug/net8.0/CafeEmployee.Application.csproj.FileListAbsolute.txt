@@ -1,0 +1,16 @@
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\bin\Debug\net8.0\CafeEmployee.Application.deps.json
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\bin\Debug\net8.0\CafeEmployee.Application.dll
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\bin\Debug\net8.0\CafeEmployee.Application.pdb
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\bin\Debug\net8.0\CafeEmployee.Domain.dll
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\bin\Debug\net8.0\CafeEmployee.Domain.pdb
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.csproj.AssemblyReference.cache
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.AssemblyInfoInputs.cache
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.AssemblyInfo.cs
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.csproj.CoreCompileInputs.cache
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.sourcelink.json
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmpl.6FA15FDC.Up2Date
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.dll
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\refint\CafeEmployee.Application.dll
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\CafeEmployee.Application.pdb
+C:\Users\sanje\Documents\Github\cafe\backend\src\CafeEmployee.Application\obj\Debug\net8.0\ref\CafeEmployee.Application.dll
